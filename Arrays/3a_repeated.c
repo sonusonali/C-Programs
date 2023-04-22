@@ -1,4 +1,4 @@
-// non repeated elements
+//  repeated elements
 #include<stdio.h>
 int nonrepeatedarray(int arr[], int size)
 {
